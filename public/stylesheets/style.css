@@ -1,0 +1,26 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+#zones a {
+    display: inline-block;
+    width: 80px;
+    background-color: red;
+    margin: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    vertical-align: center;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+}
+
+#zones a.on {
+    background-color: green;
+}
