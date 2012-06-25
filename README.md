@@ -1,10 +1,7 @@
-letitrain
-=========
-
+# letitrain #
 An open source sprinkler controller running on node.js
 
-License
-=========
+## License ##
 (The AGPLv3 License)
 
 Copyright (C) 2012 Josh Perry <josh@6bit.com>
